@@ -27,6 +27,6 @@ On Windows PowerShell, use:
 ## Collaboration Log
 
 - Partner: Hrithik Anand
-- GitHub Username: [his GitHub username]
+- GitHub Username: HrithikAnand
 - What we built: Added a greet() function that greets a person by name.
 - What I learned: GitLens can show who changed each line of code, while Live Share allows two people to edit code together in real time.
